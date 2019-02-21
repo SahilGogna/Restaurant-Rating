@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Restaurant Rating App</string>
+    <string name="restaurant_rating">Restaurant Rating</string>
+    <string name="client">Client: </string>
+    <string name="meal">Meal</string>
+    <string name="picture">Picture</string>
+    <string name="rate">Rate</string>
+    <string name="finish">Finish</string>
+</resources>
